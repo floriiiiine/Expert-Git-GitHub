@@ -15,7 +15,7 @@ A définir
 
 ```
 
-### Installation ERROR 404
+### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O. C.**
 
 ## License
 

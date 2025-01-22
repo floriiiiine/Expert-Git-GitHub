@@ -14,7 +14,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 <ul>
     <li> Git sur votre ordinateur</li>
     <li> Une interface pour coder </li>
+    <li> Un test </li>
 </ul>
+
 ```
 
 ### Installation

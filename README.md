@@ -25,7 +25,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 <ul>
 <li>Nous avons installé un hook pour que chaque commit soit numéroté avec un # + un numéro</li>
-<li>Nous avons installé un hook pour qu'un message s'affice après chaque produit ! </li>
+<li>Nous avons installé un hook pour qu'un message s'affiche après chaque produit! </li>
 </ul>
 
 ```
